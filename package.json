@@ -1,0 +1,34 @@
+{
+  "name": "php-array",
+  "version": "0.0.1",
+  "description": "transform and convert php array style into javascript object",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Habib Rohman",
+    "email": "mhrohman@live.com",
+    "url": "https://github.com/rohmanhm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohmanhm/js-php-array"
+  },
+  "keywords": [
+    "javascript",
+    "php",
+    "array",
+    "php-array",
+    "js-php-array",
+    "convert"
+  ],
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "dependencies": {
+    "json5": "^0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
