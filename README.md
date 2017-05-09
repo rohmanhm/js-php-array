@@ -1,4 +1,6 @@
 # Javascript PHP Array
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/js-php-array.svg)](https://greenkeeper.io/)
 Use php array style in javascript
 
 ## How to use
